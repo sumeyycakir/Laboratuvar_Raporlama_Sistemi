@@ -1,6 +1,7 @@
-# 🧪 Laboratuvar Raporlama Sistemi  
+# 🧪 [Laboratuvar Raporlama Sistemi](https://github.com/sumeyycakir/Laboratuvar_Raporlama_Sistemi/issues)
 
 Laboratuvar Raporlama Sistemi, laborantların ve adminlerin hasta verilerini ve departmanlarını kolayca yönetmesine olanak tanıyan bir web uygulamasıdır.  
+
 
 ---
 
