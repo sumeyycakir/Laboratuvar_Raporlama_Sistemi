@@ -8,7 +8,8 @@ Laboratuvar Raporlama Sistemi, laborantların ve adminlerin hasta verilerini ve 
 ## 📌 Proje Özellikleri  
 
 ## 🎛️ Admin Paneli  
-- Laborant ekleme, silme, güncelleme ve tüm laborantları görüntüleme yetkisi.  
+- Laborant ekleme, silme, güncelleme ve tüm laborantları görüntüleme yetkisi.
+- - Hastaları ekleme, silme ve güncelleme yetkisi.  
 - **Departman Yönetimi**:  
   - Yeni departmanlar ekleme ve mevcutları silme/güncelleme yetkisi.  
   - Laborantları belirli departmanlara atama özelliği.  
@@ -57,7 +58,7 @@ Frontend için:
 ```bash
 npm run dev
 ```
-Tarayıcınızda http://localhost:5000 adresine giderek uygulamayı görüntüleyebilirsiniz.
+Tarayıcınızda http://localhost:5000 adresine giderek uygulamayı login sayfasında görüntüleyebilirsiniz.
 
 Backend için:
 
